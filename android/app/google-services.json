@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "776403421779",
+    "project_id": "sangeet-98b74",
+    "storage_bucket": "sangeet-98b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776403421779:android:cbcbd83fe5744f95f494a6",
+        "android_client_info": {
+          "package_name": "com.example.sangeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776403421779-jhnjnrlo7dbljgvlkk23ps3dv2scaklj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sangeet",
+            "certificate_hash": "a772cf61d3c9d095fa71d12afecb30a472c005a9"
+          }
+        },
+        {
+          "client_id": "776403421779-i872j4qcbbmbfri7a5o9ihgdjar6nkg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm85x3muVM0Iu6qsT9R3OQ0NiPyi9nHno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776403421779-i872j4qcbbmbfri7a5o9ihgdjar6nkg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776403421779-5sgtbbvli6l3ohisug3o4dlvmg1v6t1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sangeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
